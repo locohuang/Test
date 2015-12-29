@@ -5,6 +5,7 @@ public class Output implements Runnable{
 	public Output(Storage st) {
 		// TODO Auto-generated constructor stub
 		this.st=st;
+		System.out.println("");
 	}
 	@Override
 	public void run() {
