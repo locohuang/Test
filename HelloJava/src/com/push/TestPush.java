@@ -1,5 +1,5 @@
 package com.push;
-
+/*
 import cn.jpush.api.JPushClient;
 import cn.jpush.api.common.resp.APIConnectionException;
 import cn.jpush.api.common.resp.APIRequestException;
@@ -33,5 +33,5 @@ public class TestPush {
 		System.out.println("-----Push Completed!");
 	}
 
-}
+}*/
 
